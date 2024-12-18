@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/x/-original-imagt4qptrkzwmxa.jpeg?q=70",
+    "name": "realme C51",
+    "price": "$50",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 2,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70",
+    "name": "POCO M6 Pro 5G",
+    "price": "$80",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 3,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/8/n/-original-imagymhwtgmdr3v2.jpeg?q=70",
+    "name": "SAMSUNG Galaxy F15 5G",
+    "price": "$60",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 4,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/3/4/-original-imahyytukhkky5ew.jpeg?q=70",
+    "name": "vivo T3x 5G ",
+    "price": "$40",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 5,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=70",
+    "name": "Apple iPhone 15",
+    "price": "$1000",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 6,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/s/z/g04-pb130010in-motorola-original-imagy3tecryv84k7.jpeg?q=70",
+    "name": "MOTOROLA G04",
+    "price": "$70",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 7,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/i/d/-original-imagpgx4erjqnpzx.jpeg?q=70",
+    "name": "Google Pixel 7a",
+    "price": "$55",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 8,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/h/f/-original-imagnfqybfcdzeye.jpeg?q=70",
+    "name": "OPPO A17",
+    "price": "$60",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 9,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/b/i/x/-original-imagt4qptrkzwmxa.jpeg?q=70",
+    "name": "realme C51",
+    "price": "$50",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 10,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/d/h/q/m6-pro-5g-mzb0eprin-poco-original-imags3e7vewsafst.jpeg?q=70",
+    "name": "POCO M6 Pro 5G",
+    "price": "$80",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 11,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/k/8/n/-original-imagymhwtgmdr3v2.jpeg?q=70",
+    "name": "SAMSUNG Galaxy F15 5G",
+    "price": "$60",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 12,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/w/3/4/-original-imahyytukhkky5ew.jpeg?q=70",
+    "name": "vivo T3x 5G ",
+    "price": "$40",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 13,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/d/9/-original-imagtc2qzgnnuhxh.jpeg?q=70",
+    "name": "Apple iPhone 15",
+    "price": "$1000",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 14,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/v/s/z/g04-pb130010in-motorola-original-imagy3tecryv84k7.jpeg?q=70",
+    "name": "MOTOROLA G04",
+    "price": "$70",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 15,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/i/d/-original-imagpgx4erjqnpzx.jpeg?q=70",
+    "name": "Google Pixel 7a",
+    "price": "$55",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 16,
+    " image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/h/f/-original-imagnfqybfcdzeye.jpeg?q=70",
+    "name": "OPPO A17",
+    "price": "$60",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 17,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/n/i/d/-original-imagpgx4erjqnpzx.jpeg?q=70",
+    "name": "Google Pixel 7a",
+    "price": "$55",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 18,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/h/f/-original-imagnfqybfcdzeye.jpeg?q=70",
+    "name": "OPPO A17",
+    "price": "$60",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 19,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/h/f/-original-imagnfqybfcdzeye.jpeg?q=70",
+    "name": "OPPO A17",
+    "price": "$60",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  },
+  {
+    "id": 20,
+    "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/mobile/h/h/f/-original-imagnfqybfcdzeye.jpeg?q=70",
+    "name": "OPPO A17",
+    "price": "$60",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+  } 
+]
